@@ -5,3 +5,7 @@ const Mahasiswa = {
 };
 
 let { nama, nim, email } = Mahasiswa;
+
+console.log(nama);
+console.log(nim);
+console.log(email);

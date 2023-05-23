@@ -3,3 +3,5 @@ const Mahasiswa = {
   nim: "02032111020",
   email: "anggipermana490@gmail.com",
 };
+
+let { nama, nim, email } = Mahasiswa;

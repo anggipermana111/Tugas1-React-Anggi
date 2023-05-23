@@ -9,3 +9,7 @@ let { nama, nim, email } = Mahasiswa;
 console.log(nama);
 console.log(nim);
 console.log(email);
+
+let arr1 = ["Bagas", "Kurniawan"];
+let arr2 = ["Riyan", "Fadli"];
+let arr3 = ["Dede", "Agus"];

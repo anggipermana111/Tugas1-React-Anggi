@@ -13,3 +13,7 @@ console.log(email);
 let arr1 = ["Bagas", "Kurniawan"];
 let arr2 = ["Riyan", "Fadli"];
 let arr3 = ["Dede", "Agus"];
+
+const hasil = [...arr1, ...arr2, ...arr3];
+
+console.log(hasil);
